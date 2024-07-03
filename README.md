@@ -6,6 +6,14 @@
 
 ---
 
+**How to Use it?**
+
+-Download Zip file of this repository.
+-Now extract the zip file and open the folder in Your code editor like VS code.
+-Use your local Host to see the website working.
+
+---
+
 **Contributing**
 
 🌐Welcome contributions to the Harmoniq Music Player! To contribute:
