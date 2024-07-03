@@ -1,6 +1,8 @@
 #Harmoniq Music Player Website
 ---
 🚀Welcome to the Harmoniq Music Player! This repository contains the source code for the Harmoniq Music Player website, a user-friendly web application designed for streaming and managing your favorite music.🚀
+ ![ss](https://github.com/Khushisrivastava9/Harmoniq-Musicforall/blob/main/portfolio-img-3.png)
+
 ---
 
 **Contributing**
